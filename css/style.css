@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(208, 222, 234);
+    
+}
+.site-logo-img {
+    width: 300px;
+    height: 90px;
+    }
+.site-list-item {
+    list-style: none;
+}
+.site-nav-link {
+    text-decoration: none;
+}
+.site-nav {
+    text-align: center;
+}
+.hero-heading {
+    font-size: 100px;
+    text-align: center;
+    color: blueviolet;
+}
+
+
+
+.story-list {
+    list-style: none;
+}
+.story-heading {
+    font-size: 50px;
+    color: black;
+    text-align: center;
+
+}
